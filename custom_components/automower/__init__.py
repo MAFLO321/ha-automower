@@ -167,7 +167,8 @@ MODELS = {
     'E': 'Automower 420',
     'G': 'Automower 430X',
     'H': 'Automower 450X',
-    'L': 'Automower 315/X'
+    'L': 'Automower 315/X',
+    'T': 'Automower 435X'
 }
 
 IGNORED_API_STATE_ATTRIBUTES = [
